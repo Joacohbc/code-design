@@ -1,13 +1,12 @@
 ---
 name: code-design
-description: Code design directives based on CodeAesthetic principles. Apply by default whenever writing, reviewing, or refactoring code — covers self-documenting code (no comments), naming, flat control flow (guard clauses / max 2 levels of nesting), composition over inheritance, dependency injection, avoiding premature optimization, avoiding over-abstraction, and pragmatism over paradigms. Use when the user asks to write, review, clean up, or refactor code, or to check a change against design/style guidelines.
+description: Code design directives to apply by default whenever writing, reviewing, or refactoring code — covers self-documenting code (no comments), naming, flat control flow (guard clauses / max 2 levels of nesting), composition over inheritance, dependency injection, avoiding premature optimization, avoiding over-abstraction, and pragmatism over paradigms. Use when the user asks to write, review, clean up, or refactor code, or to check a change against design/style guidelines.
 ---
 
 # Code Design Directives
 
 These rules apply to every task that involves writing, reviewing, or refactoring code.
-They are based on the principles from the CodeAesthetic channel and must be followed by
-default, unless the project context explicitly states otherwise.
+They must be followed by default, unless the project context explicitly states otherwise.
 
 ---
 

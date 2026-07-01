@@ -1,7 +1,6 @@
 # code-design
 
-A Claude / agent skill encoding code design directives based on
-[CodeAesthetic](https://www.youtube.com/@CodeAesthetic) principles. It nudges the agent to
+A Claude / agent skill encoding code design directives. It nudges the agent to
 write self-documenting code, name things well, keep control flow flat, prefer composition and
 dependency injection, and avoid premature optimization and over-abstraction.
 

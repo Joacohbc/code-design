@@ -1,8 +1,7 @@
 # AGENTS.md — Code Design Directives
 
 These rules apply to every task that involves writing, reviewing, or refactoring code.
-They are based on the principles from the CodeAesthetic channel and must be followed by
-default, unless the project context explicitly states otherwise.
+They must be followed by default, unless the project context explicitly states otherwise.
 
 ---
 
