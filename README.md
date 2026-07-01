@@ -7,15 +7,13 @@ dependency injection, and avoid premature optimization and over-abstraction.
 ## Install
 
 ```bash
-npx skills add joacog48/code-design
+npx skills add Joacohbc/code-design
 ```
-
-Replace `joacog48/code-design` with your `owner/repo` once pushed to GitHub.
 
 List skills in the repo before installing:
 
 ```bash
-npx skills add joacog48/code-design --list
+npx skills add Joacohbc/code-design --list
 ```
 
 ## What's here
